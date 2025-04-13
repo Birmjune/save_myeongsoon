@@ -1,0 +1,8 @@
+////////////////////	6.904
+from colours imptdrf	8.105
+//////d	8.127
+////////////////////	74.554
+sda.	209.261
+boksely	297.448
+I am the best!!!	747.530
+from pygame import *	821.253
